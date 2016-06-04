@@ -14,12 +14,12 @@ $languagePack = array(
 'Verjaardagen vandaag:',
 
 'Views:' =>
-'Aantal keren bekeken:',
+'Aantal keer bekeken:',
 
 
 // userpanel.php
 'Edit profile' =>
-'Bewerk profiel',
+'Profiel bewerken',
 
 'Private messages' =>
 'Priv&eacute;berichten',
@@ -59,7 +59,7 @@ $languagePack = array(
 'Je moet een administrator zijn om rangensets te importeren.',
 
 'Postcount' =>
-'Hoeveelheid posts',
+'Aantal posts',
 
 'Rank' =>
 'Rang',
@@ -71,7 +71,7 @@ $languagePack = array(
 'Set gebruikt geen bestandsnamen met kleine letters.',
 
 'Set is text-only.' =>
-'Set bestaat uit alleen tekst.',
+'Set bestaat alleen uit tekst.',
 
 'The above ranks and sets have been imported.' =>
 'De bovenstaande rangen en sets zijn geïmporteerd',
@@ -79,7 +79,7 @@ $languagePack = array(
 
 // pages/newthread.php
 'New thread' =>
-'Nieuwe topic',
+'Nieuwe thread',
 
 'You must be logged in to post.' =>
 'Je moet ingelogd zijn om een bericht te plaatsen.',
@@ -91,13 +91,13 @@ $languagePack = array(
 'Je bent verbannen.',
 
 'Unknown forum ID.' =>
-'Onbekende forum-ID.',
+'Onbekend forum-ID.',
 
 'This forum is locked.' =>
-'Dit forum is op slot.',
+'Dit forum is vergrendeld.',
 
 'You are not allowed to post threads in this forum.' =>
-'Je hebt geen toestemming om topics te plaatsen in dit forum.',
+'Je hebt geen toestemming om threads te plaatsen in dit forum.',
 
 'Poll' =>
 'Poll',
@@ -106,16 +106,16 @@ $languagePack = array(
 'Voorbeeld',
 
 'Enter a message and try again.' =>
-'Voer een bericht in, en probeer het nog eens.',
+'Voer een bericht in en probeer het opnieuw.',
 
 'Your post is empty.' =>
 'Je post is leeg.',
 
 'Enter a thread title and try again.' =>
-'Vul een titel in en probeer opnieuw.',
+'Vul een titel in en probeer het opnieuw.',
 
 'Your thread is unnamed.' =>
-'Je hebt geen naam gegeven aan de thread.',
+'Je thread heeft nog geen titel.',
 
 'You need to enter at least two options to make a poll.' =>
 'Je moet minstens twee opties aangeven om een poll te maken.',
@@ -124,7 +124,7 @@ $languagePack = array(
 'Ongeldige poll.',
 
 'You need to enter a poll question to make a poll.' =>
-'Je moet een poll vraag invullen om een poll te maken.',
+'Je moet een stelling invullen om een poll te maken.',
 
 'You\'re going too damn fast! Slow down a little.' =>
 'Niet zo verdomd snel! Ga wat langzamer.',
@@ -142,10 +142,10 @@ $languagePack = array(
 'Gebruikers kunnen meerdere keuzes aanklikken.',
 
 'Poll question' =>
-'Poll vraag',
+'Stelling',
 
 'Number of options' =>
-'Hoeveelheid opties',
+'Aantal opties',
 
 'Set' =>
 'Set',
@@ -181,18 +181,18 @@ $languagePack = array(
 'Post',
 
 'Disable post layout' =>
-'Zonder postlayout',
+'Post lay-out uitschakelen',
 
 'Disable smilies' =>
-'Zonder smilies',
+'Smiley\'s uitschakelen',
 
 'Disable auto-<br>' =>
-'Zonder auto-<br>',
+'Auto-<br> uitschakelen',
 
 
 // pages/memberlist.php
 'Member list' =>
-'Gebruikerslijst',
+'Gebruikers',
 
 'Page' =>
 'Pagina',
@@ -285,7 +285,7 @@ $languagePack = array(
 'Zoeken',
 
 'Loading memberlist...' =>
-'Laden van gebruikerslijst...',
+'Gebruikerlijst laden...',
 
 
 // pages/editfora.php
@@ -323,7 +323,7 @@ $languagePack = array(
 'Bewerk forum',
 
 'Delete' =>
-'verwijder',
+'Verwijder',
 
 'New Forum' =>
 'Nieuw forum',
@@ -332,7 +332,7 @@ $languagePack = array(
 'Beschrijving komt hier. <strong>HTML toegestaan</strong>',
 
 'Add' =>
-'Toevoegen',
+'Voeg toe',
 
 'Description' =>
 'Beschrijving',
@@ -389,7 +389,7 @@ $languagePack = array(
 'Voeg categorie toe',
 
 'No forums in this category.' =>
-'Geen fora in deze categorie',
+'Geen forums in deze categorie',
 
 'Regular' =>
 '',
@@ -449,10 +449,10 @@ $languagePack = array(
 
 // pages/forum.php
 'You are not allowed to browse this forum.' =>
-'Je mag niet door dit forum bladeren.',
+'Je hebt geen toegang tot dit forum.',
 
 'Unknown category ID.' =>
-'Onbekende categorie-ID.',
+'Onbekend categorie-ID.',
 
 'Forum ignored. You will no longer see any "New" markers for this forum.' =>
 'Forum genegeerd. Je zult geen "Nieuw" markeringen meer zien voor dit forum.',
@@ -482,7 +482,7 @@ $languagePack = array(
 'Reacties',
 
 'Views' =>
-'Bezichtigingen',
+'Bekeken',
 
 'Last post' =>
 'Laatste post',
@@ -503,7 +503,7 @@ $languagePack = array(
 'om iets te plaatsen.',
 
 'Forum Jump:' =>
-'Fora:',
+'Forums:',
 
 
 // pages/sendprivate.php
@@ -511,7 +511,7 @@ $languagePack = array(
 'Nieuw PB',
 
 'You must be logged in to send private messages.' =>
-'Je moet ingelogt zijn om priv&eacute;berichten te sturen.',
+'Je moet ingelogt zijn om Priv&eacute;berichten te versturen.',
 
 'Unknown user.' =>
 'Onbekende gebruiker.',
@@ -520,7 +520,7 @@ $languagePack = array(
 'Onbekend PB.',
 
 'You can\'t send private messages to yourself.' =>
-'Je kunt geen berichten naar jezelf versturen.',
+'Je kunt geen Privébericht naar jezelf versturen.',
 
 'Unknown user "{0}"' =>
 'Onbekende gebruiker "{0}".',
@@ -541,13 +541,13 @@ $languagePack = array(
 'Voer een onderwerp in en probeer het nog een keer.',
 
 'Your PM is untitled.' =>
-'Je PB is niet benoemt.',
+'Je Privébericht (PB) heeft geen titel.',
 
 'Send PM' =>
-'Stuur bericht',
+'Stuur PB',
 
 'To' =>
-'Aan:',
+'Aan',
 
 'Message' =>
 'Bericht',
@@ -555,25 +555,25 @@ $languagePack = array(
 
 // pages/profile.php
 'User ID unspecified.' =>
-'Gebruikers-ID niet aangegeven.',
+'Gebruiker-ID niet aangegeven.',
 
 'Unknown user ID.' =>
-'Onbekende gebruikers-ID.',
+'Onbekend Gebruiker-ID.',
 
 'Layout blocked.' =>
-'Layout geblokkeerd',
+'Lay-out geblokkeerd',
 
 'Notice' =>
 'Mededeling',
 
 'Layout unblocked.' =>
-'Layout gedeblokkeerd',
+'Lay-out gedeblokkeerd',
 
 'Unblock layout' =>
-'Deblokkeer layout',
+'Deblokkeer lay-out',
 
 'Block layout' =>
-'Layout blokkeren',
+'Lay-out blokkeren',
 
 'Private' =>
 'Priv&eacute;',
@@ -594,10 +594,10 @@ $languagePack = array(
 'Naar de volgende rang',
 
 'Total posts' =>
-'Totaal aantal posts',
+'Tot. aantal posts',
 
 'Total threads' =>
-'Totaal aantal threads',
+'Tot. aantal threads',
 
 'Score' =>
 'Score',
@@ -677,7 +677,7 @@ $languagePack = array(
 'Weet je het zeker?',
 
 'Oh boy.' =>
-'Tsjonge.',
+'Tsjongejonge.',
 
 'You just destroyed the board.' =>
 'Je hebt zojuist het board vernietigd.',
@@ -731,7 +731,7 @@ $languagePack = array(
 
 // pages/index.php
 'Mark all forums read' =>
-'Markeer alle fora als gelezen',
+'Markeer alle forums als gelezen',
 
 '{0} and {1} total' =>
 '{0} en {1} in totaal',
@@ -1103,7 +1103,7 @@ $languagePack = array(
 
 // pages/register.php
 'Back to main' =>
-'Terug naar de hoofdpagina',
+'Terug naar hoofdpagina',
 
 'Try again' =>
 'Probeer het nog eens',
@@ -1274,7 +1274,7 @@ $languagePack = array(
 'Machtsniveau',
 
 'Globally block layout' =>
-'Globaal layout blokkeren',
+'Globaal lay-out blokkeren',
 
 'Threads per page' =>
 'Threads per pagina',
@@ -1295,7 +1295,7 @@ $languagePack = array(
 'Opties',
 
 'Block all layouts' =>
-'Blokkeer alle layouts',
+'Blokkeer alle lay-outs',
 
 'Use nice notification banners' =>
 'Gebruik mooie notificatie balken',
@@ -1313,7 +1313,7 @@ $languagePack = array(
 'Homepage naam',
 
 'Post layout' =>
-'Post layout',
+'Post lay-out',
 
 'Header' =>
 'Header',
@@ -2514,7 +2514,7 @@ $languagePack = array(
 'nieuwe rangen toe te voegen',
 
 'block layouts' =>
-'layouts te blokkeren',
+'lay-outs te blokkeren',
 
 'delete usercomments' =>
 'commentaar te verwijderen',
@@ -2601,7 +2601,7 @@ $languagePack = array(
 'de kalender te zien',
 
 'view fora' =>
-'fora te zien',
+'forums te zien',
 
 'see the Last Known Browser table' =>
 'de browsertabel te zien',
@@ -2822,7 +2822,7 @@ $languagePack = array(
 'de thread',
 
 'This post would break the board layout.' =>
-'Deze post zou de bord layout breken.',
+'Deze post zou de bord lay-out breken.',
 
 'your profile' =>
 'je profiel',
@@ -2882,7 +2882,7 @@ $languagePack = array(
 'Schakel AJAX verversers uit',
 
 'Disable post layouts for guests' =>
-'Schakel post layouts voor gasten uit',
+'Schakel post lay-outs voor gasten uit',
 
 'Registration word' =>
 'Registratie woord',
